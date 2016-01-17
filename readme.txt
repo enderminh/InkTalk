@@ -2,8 +2,8 @@
 InkTalk 1.1
 ==================
 by Minh T. Nguyen
-nguyentriminh@yahoo.com
-http://www.enderminh.com/minh/inktalk.aspx
+minh@minh.org
+http://www.enderminh.com
 
 
 Description

@@ -18,8 +18,8 @@ using Microsoft.Ink;
  ==================
 
  by Minh T. Nguyen
- nguyentriminh@yahoo.com
- http://www.enderminh.com/minh/inktalk.aspx
+ minh@minh.org
+ http://www.enderminh.com
 
 */
 
